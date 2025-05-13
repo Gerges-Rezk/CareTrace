@@ -1,6 +1,5 @@
-# medical_app
-
-A new Flutter project.
+# CareTrace
+DEPI graduation project
 
 ## Getting Started
 
