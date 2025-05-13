@@ -1,0 +1,2 @@
+C:/Users/Gerges Rezk/Desktop/New folder/Medical_App-main/Medical_App-main/android/app/.cxx/Debug/6t4j3h37/x86/CMakeFiles/edit_cache.dir
+C:/Users/Gerges Rezk/Desktop/New folder/Medical_App-main/Medical_App-main/android/app/.cxx/Debug/6t4j3h37/x86/CMakeFiles/rebuild_cache.dir
